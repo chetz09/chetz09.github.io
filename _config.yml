@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Chetan Dhakan"
 title_separator          : "|"
 name                     : &name "Chetan Dhakan"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Chetan Dhakan, PhD"
   pronouns         : "he/him"
-  bio              : "Postdoctoral Researcher — Molecular MRI, CEST, MR Fingerprinting & PET/MRI for oncology and gene-therapy imaging."
+  bio              : "Scientist — Molecular MRI, CEST-MRI, MR Fingerprinting, PET/MRI and other imaging modalities for oncology, cardiovascular and neurology applications."
   location         : "Boston, MA, USA"
   employer         : "Harvard Medical School / Massachusetts General Hospital"
   uri              : # URL
