@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a **Postdoctoral Researcher at Harvard Medical School / Massachusetts General Hospital**, working on molecular and quantitative MRI for cancer and gene-therapy imaging. My research sits at the intersection of **MR physics, pulse-sequence programming, and machine learning** — I design quantitative imaging biomarkers that translate from preclinical scanners to the clinic.
+I am a **Scientist at Harvard Medical School / Massachusetts General Hospital**, working on molecular and quantitative MRI for cancer and gene-therapy imaging. My research sits at the intersection of **MR physics, pulse-sequence programming, and machine learning** — I design quantitative imaging biomarkers that translate from preclinical scanners to the clinic.
 
-Before joining Harvard/MGH in August 2025, I was a Scientist I at the **University of Wisconsin–Madison**, and before that a postdoc at **MD Anderson Cancer Center** with Prof. Mark Pagel. I earned my PhD in Biomedical Engineering in Italy as a **Marie Skłodowska-Curie Research Fellow** at CNR-IBB (Turin) and the University of Campania "Luigi Vanvitelli" (Naples).
+Before joining Harvard/MGH, I was a Scientist at the **University of Wisconsin–Madison**, and before that a postdoc at **MD Anderson Cancer Center**. I earned my PhD in Biomedical Engineering in Italy as a **Marie Skłodowska-Curie Research Fellow** at CNR-IBB (Turin).
 
 ## 🔬 Research interests
 
@@ -30,7 +30,7 @@ At **MGH / Harvard Medical School**, I'm developing and optimizing MRI reporter 
 
 ## 📫 Get in touch
 
-I'm always open to collaborations on molecular imaging, quantitative MRI, and imaging-based biomarkers for oncology. The fastest way to reach me is by [email](mailto:chetandhakan09@gmail.com) or [LinkedIn](https://linkedin.com/in/dhakanchetan).
+I'm always open to collaborations on molecular imaging, quantitative MRI, and imaging-based biomarkers for oncology, cardiovascular and neurology applications. The fastest way to reach me is by [email](mailto:chetandhakan09@gmail.com) or [LinkedIn](https://linkedin.com/in/dhakanchetan).
 
 <style>
 .research-grid ul {
